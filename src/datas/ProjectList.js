@@ -1,7 +1,8 @@
 import github from '../assets/GitHub.png'
 import web from '../assets/Web.jpg'
 import unity from '../assets/Unity.jpg'
-
+import brez from '../assets/Brez.svg'
+import diarbenn from '../assets/Diarbenn.png'
 import miguel from '../assets/Miguel.png'
 import p4 from '../assets/Puissance 4.png'
 import quoiMaGeule from '../assets/moi.jpg'
@@ -80,5 +81,23 @@ export const projectList = [
 		linkimg: github,
 		category: 'Personnel'
 	},
-
+	{
+		id:"7",
+		cover:brez,
+		name:"Alaiz-Breiz",
+		date:"Septembre 2023 - Avril 2024",
+		desc:"Dans le cadre d'un projet de groupe à l'IUT, nous avons réalisé une application de réservation de logements style Air BNB. dans ce projet j'ai surtout travaillé sur la partie Front ca étant en équipe de 7 nous avions réparti le travail par préférences",
+		learnt:"Partir des éxigences et aller jusqu'à une application complète, Optimiser une base de donnéés, appliquer une démarche de suivi de projet en fonction des besoins métiers des clients et des utilisateurs, Situer son rôle et ses missions au sein d'une équipe informatique",
+		languages:"HTML CSS JS PHP PostgreSQL",
+		category:"IUT"
+	},
+	{
+		id:"8",
+		cover:diarbenn,
+		name:"Diarbenn",
+		date:"2024",
+		desc:"Lors de mon alternance au sein du Laboratoire Numérique CECLANT pour la marine nationale, j'ai travaillésur le projet DIARBENN. Ce projet consistait à faire l'inventaire de tout les batiment de l'ile longue pour déterter les zones à risque afin de prévenir les incendies.",
+		learnt:"Choisir et implémenter les architectures adaptées, Faire évoluer une application existante, Intégrer des solutions dans un environnement de production",
+		languages:"TypeScript Angular W2UI NodeJS Sequelise",
+		category:"Pro"}
 ]
