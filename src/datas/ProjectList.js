@@ -50,7 +50,7 @@ export const projectList = [
 		cover: mint,
 		name: "La Maison Jungle",
 		date: "Janvier 2024",
-		desc: "Site Web réalisé en suivant la formation réact de OpenClassrooms. Ce site est un site de vente de plantes en ligne. Il permet de voir les plantes disponibles et de les ajouter au panier.",
+		desc: "Site Web réalisé en suivant la formation react de OpenClassrooms. Ce site est un site de vente de plantes en ligne. Il permet de voir les plantes disponibles et de les ajouter au panier.",
 		learnt: "Suivre une formation en ligne, Utiliser React pour créer des applications web",
 		languages: "HTML, CSS, JS, React",
 		link: "https://timothe-picot.github.io/La-Maison-Jungle/",
