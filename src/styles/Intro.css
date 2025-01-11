@@ -1,0 +1,6 @@
+.intro{
+    padding: 10%;
+	min-height: 90vh;
+  	background: linear-gradient(to bottom, white, black);
+    font-size: 1.5em;
+}

@@ -1,0 +1,51 @@
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+	color: black;
+  }
+  
+  .footer-container {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .contact-info {
+    text-align: left;
+  }
+  
+  .cv-download {
+    text-align: right;
+  }
+  
+  .cv-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .cv-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .txt-ou{
+    color: gray;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .footer-container {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
