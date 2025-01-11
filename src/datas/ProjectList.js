@@ -78,7 +78,7 @@ export const projectList = [
 		learnt: "Appliquer des principes d’accessibilité et d’ergonomie, Adopter de bonnes pratiques de conception et de programmation, Vérifier et valider la qualité de l’application par les tests",
 		languages: "HTML CSS JS W2UI Leaflet",
 		link: "https://timothe-picot.github.io/Mini-Projet-S-maphores-/",
-		linkimg: github,
+		linkimg: web,
 		category: 'Personnel'
 	},
 	{
