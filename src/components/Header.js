@@ -29,7 +29,7 @@ function Header() {
         <ul>
           <li>
             <Link to="intro" smooth={true} duration={500}>
-              Acceuil
+              Accueil
             </Link>
           </li>
           <li>
