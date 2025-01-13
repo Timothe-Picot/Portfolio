@@ -10,10 +10,9 @@ function About() {
 				<div className="presentation-text">
 					<h2>Bienvenue sur mon portfolio</h2>
 					<p>
-					Bonjour, je m’appelle Timothé Picot, j'ai 19 ans et je suis étudiant en BUT informatique à l’IUT de Lannion.
+					Bonjour, je m’appelle Timothé Picot, j'ai 20 ans et je suis étudiant en BUT informatique à l’IUT de Lannion.
 					J'étudie le développement web et je vais vous faire part sur ce site des projets réalisés lors de mes études.</p>
-					<p>J'ai pour ambition de continuer mes études en école d'ingénieur après mon BUT ainsi que de trouver une alternance dans le développement web.
-					</p>
+					<p>J'ai pour ambition de continuer mes études en école d'ingénieur après mon BUT</p>
 				</div>
 				<div className="presentation-image">
 					<img src={moi} alt={`${moi} cover`}></img>
