@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.889b1f46.css",
-    "main.js": "/Portfolio/static/js/main.bd311883.js",
+    "main.js": "/Portfolio/static/js/main.57abf0e4.js",
     "static/media/Proj-semaphore.jpg": "/Portfolio/static/media/Proj-semaphore.eb552a703a6673ffc60c.jpg",
     "static/media/moi.jpg": "/Portfolio/static/media/moi.f006967efb9503a90f68.jpg",
     "static/media/mint.jpg": "/Portfolio/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
@@ -10,15 +10,15 @@
     "static/media/Puissance 4.png": "/Portfolio/static/media/Puissance 4.f73981e48cab3fcd41b2.png",
     "static/media/Vaush2.png": "/Portfolio/static/media/Vaush2.8cee1335a26a8be5fecd.png",
     "static/media/Unity.jpg": "/Portfolio/static/media/Unity.82f128b9657cd2ba2289.jpg",
+    "static/media/Diarbenn.png": "/Portfolio/static/media/Diarbenn.e0566ed3a264e38a5e18.png",
     "static/media/Miguel.png": "/Portfolio/static/media/Miguel.869dced4c76bd6dda0fd.png",
-    "static/media/Diarbenn.png": "/Portfolio/static/media/Diarbenn.7e458135f3041296c067.png",
     "static/media/Brez.svg": "/Portfolio/static/media/Brez.2a610a665088bc1e6b465fcb01561c69.svg",
     "index.html": "/Portfolio/index.html",
     "main.889b1f46.css.map": "/Portfolio/static/css/main.889b1f46.css.map",
-    "main.bd311883.js.map": "/Portfolio/static/js/main.bd311883.js.map"
+    "main.57abf0e4.js.map": "/Portfolio/static/js/main.57abf0e4.js.map"
   },
   "entrypoints": [
     "static/css/main.889b1f46.css",
-    "static/js/main.bd311883.js"
+    "static/js/main.57abf0e4.js"
   ]
 }
